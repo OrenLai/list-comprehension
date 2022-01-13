@@ -3,5 +3,6 @@
 practice list comprehension for Python.
 
 readlines from 2 files to get a list, 
-get rid of the \n with list comprehension,
-then use list comprehension again to get numbers exist in both list.
+use list comprehension to get numbers exist in both list.
+
+by transfering the string into integer could get rid of the \n in the string
